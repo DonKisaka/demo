@@ -18,6 +18,9 @@ public class StudentControllerV2 {
                 ),
                 new Student(
                         2, "Ted", 21
+                ),
+                new Student(
+                        3, "Joy", 19
                 )
         );
     }
